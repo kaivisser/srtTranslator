@@ -1,0 +1,3393 @@
+﻿1
+00:01:54,565 --> 00:01:56,632
+       (SEAGULLS CALLING)
+
+2
+00:02:05,559 --> 00:02:07,859
+         (MEN SHOUTING)
+
+3
+00:02:48,351 --> 00:02:50,952
+ Your Grace, if you'd like
+ to sit, I'm sure that...
+
+4
+00:02:51,021 --> 00:02:53,255
+           We've been here
+           since midday.
+
+5
+00:03:02,098 --> 00:03:05,467
+     DAVOS: Easterners have
+     a different sense of time.
+
+6
+00:03:05,536 --> 00:03:10,538
+ Once I was waiting
+ for Salladhor Saan
+ here in Braavos.
+
+7
+00:03:10,607 --> 00:03:13,174
+ Together, we were going
+ to run three shiploads
+ of the finest...
+
+8
+00:03:31,929 --> 00:03:34,930
+                  (DOORS CLOSE)
+
+9
+00:03:41,988 --> 00:03:44,456
+      Welcome to the Iron Bank.
+
+10
+00:03:44,525 --> 00:03:47,542
+               Please, sit.
+
+11
+00:04:10,033 --> 00:04:12,300
+        What can we do for you,
+        Lord Stannis?
+
+12
+00:04:12,369 --> 00:04:14,753
+      This is Stannis of
+      the House Baratheon,
+
+13
+00:04:14,821 --> 00:04:16,421
+       King of the Andals
+       and the First Men,
+
+14
+00:04:16,490 --> 00:04:19,140
+  Lord of the Seven Kingdoms
+  and Protector of the Realm.
+
+15
+00:04:23,497 --> 00:04:25,430
+             The Iron Throne is
+             currently occupied
+
+16
+00:04:25,499 --> 00:04:27,349
+           by Tommen of
+           the House Baratheon,
+
+17
+00:04:27,417 --> 00:04:29,217
+             King of the Andals
+             and the First Men,
+
+18
+00:04:29,285 --> 00:04:32,687
+    Lord of the Seven Kingdoms
+    and Protector of the Realm.
+
+19
+00:04:32,756 --> 00:04:35,407
+           He shares
+           no blood with me.
+
+20
+00:04:35,476 --> 00:04:38,360
+ He is a bastard
+ born of incest.
+
+21
+00:04:38,428 --> 00:04:39,995
+ As was his brother
+ before him.
+
+22
+00:04:40,063 --> 00:04:41,296
+                       Yes.
+
+23
+00:04:41,365 --> 00:04:42,864
+      We have heard this story.
+
+24
+00:04:42,932 --> 00:04:45,950
+    It's not a story.
+    It's the truth.
+
+25
+00:04:46,019 --> 00:04:49,554
+       The king's grandfather
+       tells a different story.
+
+26
+00:04:49,623 --> 00:04:51,289
+              A story about
+              a jealous uncle
+
+27
+00:04:51,358 --> 00:04:53,991
+         whose attempts
+         to usurp the throne
+         from the rightful king
+
+28
+00:04:54,060 --> 00:04:55,977
+        cost the Seven Kingdoms
+        dearly
+
+29
+00:04:56,045 --> 00:04:58,696
+             in blood and gold.
+
+30
+00:04:58,765 --> 00:05:00,565
+        Gold you loaned him.
+
+31
+00:05:00,634 --> 00:05:04,452
+           And you feel
+           your blood gives you
+           a claim on our gold?
+
+32
+00:05:05,255 --> 00:05:07,222
+ More than any man living.
+
+33
+00:05:07,290 --> 00:05:09,124
+     Across the Narrow Sea,
+
+34
+00:05:09,192 --> 00:05:12,477
+     your books are filled
+     with words like "usurper"
+
+35
+00:05:12,546 --> 00:05:16,347
+             and "madman"
+             and "blood right."
+
+36
+00:05:16,416 --> 00:05:19,217
+           Here, our books are
+           filled with numbers.
+
+37
+00:05:19,269 --> 00:05:21,703
+         We prefer
+         the stories they tell.
+
+38
+00:05:21,772 --> 00:05:23,671
+              More plain.
+
+39
+00:05:23,741 --> 00:05:26,975
+   Less open to interpretation.
+
+40
+00:05:29,279 --> 00:05:32,214
+          How many fighting men
+          remain loyal to you?
+
+41
+00:05:32,282 --> 00:05:33,515
+              4,000.
+
+42
+00:05:33,584 --> 00:05:35,417
+             And how many ships
+             do you have?
+
+43
+00:05:35,486 --> 00:05:37,502
+ DAVOS: Uh...
+         The ones still afloat,
+         Ser Davos,
+
+44
+00:05:37,570 --> 00:05:39,904
+           not at the bottom
+           of Blackwater Bay.
+
+45
+00:05:41,708 --> 00:05:43,141
+ (CLEARS THROAT) Thirty-two.
+
+46
+00:05:43,210 --> 00:05:44,676
+               And how much
+               wheat and barley
+
+47
+00:05:44,745 --> 00:05:47,645
+       and beef and pork do you
+       produce on Dragonstone
+
+48
+00:05:47,715 --> 00:05:52,467
+         to feed your 4,000 men
+         on your 32 ships?
+
+49
+00:05:54,671 --> 00:05:56,755
+    None.
+
+50
+00:05:56,824 --> 00:06:00,926
+    You can see why these
+    numbers seem unlikely
+    to add up to a happy ending
+
+51
+00:06:00,994 --> 00:06:03,862
+          from our perspective.
+
+52
+00:06:03,930 --> 00:06:09,784
+          I'm afraid
+          we must respectfully
+          decline your request.
+
+53
+00:06:09,853 --> 00:06:12,286
+       But we thank you
+       for paying us
+       the honor of your visit.
+
+54
+00:06:21,849 --> 00:06:22,981
+        DAVOS: My lord.
+
+55
+00:06:23,049 --> 00:06:25,784
+          I'm not a lord,
+          Ser Davos Seaworth.
+
+56
+00:06:25,853 --> 00:06:27,819
+          You would not be
+          either here.
+
+57
+00:06:27,888 --> 00:06:29,988
+              In Braavos,
+
+58
+00:06:30,040 --> 00:06:32,857
+          thieves are not
+          rewarded with titles.
+
+59
+00:06:32,926 --> 00:06:34,359
+ I didn't do the thieving.
+
+60
+00:06:34,428 --> 00:06:36,060
+ That would be the pirates.
+
+61
+00:06:36,129 --> 00:06:40,899
+ I just moved what they stole
+ from one place to another.
+
+62
+00:06:40,967 --> 00:06:44,452
+ This is the payment
+ that was demanded by
+ King Stannis for my crimes.
+
+63
+00:06:44,521 --> 00:06:46,738
+   I consider it
+   an honest accounting.
+
+64
+00:06:46,806 --> 00:06:49,191
+ He's an honest man and
+ he's your best chance
+
+65
+00:06:49,259 --> 00:06:51,309
+ to get back the money
+ you've sunk into Westeros.
+
+66
+00:06:51,378 --> 00:06:54,579
+     Which is a lot.
+     Wars are expensive.
+
+67
+00:06:54,648 --> 00:06:55,880
+            The war is over.
+
+68
+00:06:55,949 --> 00:06:58,633
+ As long as Stannis lives,
+ the war is not over.
+
+69
+00:06:58,702 --> 00:07:00,935
+ Who's the real power
+ in King's Landing?
+
+70
+00:07:01,004 --> 00:07:03,221
+                Ser Davos...
+ Humor me.
+
+71
+00:07:03,290 --> 00:07:04,522
+               Tywin Lannister.
+
+72
+00:07:04,591 --> 00:07:06,258
+    How old is
+    Tywin Lannister?
+
+73
+00:07:06,326 --> 00:07:07,592
+              Sixty-seven.
+
+74
+00:07:07,660 --> 00:07:10,361
+   And when he dies,
+   who's in command?
+
+75
+00:07:10,430 --> 00:07:11,796
+   A half-grown boy,
+
+76
+00:07:11,849 --> 00:07:13,614
+ the product of incest?
+
+77
+00:07:13,683 --> 00:07:16,735
+ Cersei Lannister,
+ a queen whose
+ people despise her?
+
+78
+00:07:16,803 --> 00:07:18,336
+   Jaime Lannister,
+
+79
+00:07:18,405 --> 00:07:22,224
+ a man best known
+ for killing the king
+ he was sworn to protect?
+
+80
+00:07:22,292 --> 00:07:26,227
+  When Tywin's gone,
+  who do you back?
+
+81
+00:07:26,295 --> 00:07:28,146
+           That is a problem
+           for another time.
+
+82
+00:07:28,214 --> 00:07:31,616
+   I think it's
+   a problem for now.
+
+83
+00:07:31,685 --> 00:07:34,452
+ There's only one
+ reliable leader left
+ in Westeros.
+
+84
+00:07:35,072 --> 00:07:36,538
+                       Stannis.
+
+85
+00:07:36,606 --> 00:07:38,240
+       He's got the birthright.
+
+86
+00:07:38,308 --> 00:07:40,174
+ He's in his prime.
+
+87
+00:07:40,244 --> 00:07:42,294
+ He's a tried and tested
+ battle commander.
+
+88
+00:07:42,362 --> 00:07:45,580
+ And he doesn't just talk
+ about paying people back,
+ he does it.
+
+89
+00:07:50,103 --> 00:07:52,921
+     SALLADHOR: The lookout
+     sees a pirate ship
+     sailing their way.
+
+90
+00:07:52,989 --> 00:07:55,022
+       The captain shouts
+       to his first mate,
+
+91
+00:07:55,091 --> 00:07:57,091
+     "Bring me my red shirt."
+
+92
+00:07:57,160 --> 00:07:59,827
+       The first mate brings
+       the red shirt and
+       the captain puts it on.
+
+93
+00:07:59,896 --> 00:08:01,563
+         And when the pirates
+         try to board,
+
+94
+00:08:01,631 --> 00:08:04,315
+        the brave captain leads
+        his men to victory.
+
+95
+00:08:04,384 --> 00:08:07,585
+    A few days later,
+    the lookout screams,
+
+96
+00:08:07,637 --> 00:08:09,471
+        "Two pirate ships!"
+
+97
+00:08:09,539 --> 00:08:13,475
+         The crew is shivering
+         like scared mice.
+
+98
+00:08:13,543 --> 00:08:15,376
+         But the courageous
+         captain hollers,
+
+99
+00:08:15,445 --> 00:08:17,228
+     "Bring me my red shirt!"
+
+100
+00:08:17,297 --> 00:08:19,397
+         After the battle,
+         the first mate asks,
+
+101
+00:08:19,465 --> 00:08:23,184
+       "Captain, why do you
+       call for your red shirt
+       before battle?"
+
+102
+00:08:23,252 --> 00:08:24,886
+      The captain replies,
+
+103
+00:08:24,955 --> 00:08:28,623
+  "So that if I am stabbed,
+  you will not see me bleed."
+
+104
+00:08:28,708 --> 00:08:31,442
+      The next morning
+      the lookout screams,
+
+105
+00:08:31,511 --> 00:08:35,280
+     "Ten pirate ships!
+     We are surrounded!"
+
+106
+00:08:36,166 --> 00:08:38,133
+ The crew goes silent.
+
+107
+00:08:38,201 --> 00:08:40,668
+ They all look to
+ their brave captain,
+
+108
+00:08:40,737 --> 00:08:42,770
+ waiting for his usual command.
+
+109
+00:08:42,839 --> 00:08:44,772
+ Calm as ever,
+ the captain bellows...
+
+110
+00:08:44,841 --> 00:08:47,175
+       WHORES: "Bring me
+       my brown pants!"
+
+111
+00:08:47,911 --> 00:08:50,077
+  (BOTH LAUGH)
+
+112
+00:08:50,146 --> 00:08:51,846
+         DAVOS: You think
+         they ever met a pirate
+
+113
+00:08:51,915 --> 00:08:53,531
+                who didn't tell
+                them that joke?
+
+114
+00:08:54,801 --> 00:08:57,068
+      Davos.
+               (DAVOS CHUCKLES)
+
+115
+00:08:57,136 --> 00:08:59,287
+           I heard you were
+           rotting in a dungeon
+           in Dragonstone.
+
+116
+00:08:59,356 --> 00:09:01,656
+       Only half rotted.
+
+117
+00:09:01,742 --> 00:09:03,842
+    (LAUGHING)
+
+118
+00:09:04,811 --> 00:09:06,343
+ Join us, my friend.
+
+119
+00:09:07,147 --> 00:09:08,213
+       This is Lhara.
+
+120
+00:09:08,282 --> 00:09:09,331
+                   (EXCLAIMS)
+
+121
+00:09:09,399 --> 00:09:11,066
+              And this is...
+  I am Lhara.
+
+122
+00:09:11,134 --> 00:09:12,533
+   (SQUEALS)
+
+123
+00:09:12,602 --> 00:09:14,602
+    (SALLADHOR LAUGHS)
+
+124
+00:09:14,671 --> 00:09:17,055
+               She's an artist,
+               this one, truly.
+
+125
+00:09:17,124 --> 00:09:20,007
+      No time, I'm afraid.
+      We sail at sunrise.
+
+126
+00:09:20,527 --> 00:09:21,526
+                    We?
+
+127
+00:09:21,595 --> 00:09:23,695
+        You, me. We.
+
+128
+00:09:24,597 --> 00:09:26,364
+                 (SCOFFS)
+
+129
+00:09:26,432 --> 00:09:29,083
+             Once I thought
+             this man loved me.
+
+130
+00:09:29,853 --> 00:09:33,420
+ Now I know he despises me.
+
+131
+00:09:33,489 --> 00:09:37,725
+ He wants to see me die poor
+ and alone on some cold...
+
+132
+00:09:47,621 --> 00:09:50,572
+ You won't be alone.
+ And you won't be poor.
+
+133
+00:09:58,581 --> 00:10:01,115
+ There's a chest
+ of the good stuff
+ left back at your house.
+
+134
+00:10:02,052 --> 00:10:03,067
+ I gave it to your wife.
+
+135
+00:10:04,487 --> 00:10:06,388
+ (WHORES LAUGHING)
+
+136
+00:10:06,456 --> 00:10:08,806
+          You're not my friend,
+          my friend.
+
+137
+00:10:08,875 --> 00:10:10,708
+         (CHUCKLES)
+
+138
+00:10:10,777 --> 00:10:12,209
+     I'll see you at sunrise.
+
+139
+00:10:15,532 --> 00:10:17,665
+      YARA: "I give you
+      until the full moon
+
+140
+00:10:17,733 --> 00:10:21,136
+     "to order all ironborn
+     scum out of the North
+
+141
+00:10:21,204 --> 00:10:25,273
+       "and back to those
+       shit-stained rocks
+       you call home.
+
+142
+00:10:25,342 --> 00:10:26,958
+      "On the first night
+      of the full moon,
+
+143
+00:10:27,026 --> 00:10:29,794
+    "I will hunt down
+    every islander
+    still on our lands
+
+144
+00:10:29,863 --> 00:10:31,696
+ "and flay them living,
+
+145
+00:10:31,765 --> 00:10:35,850
+ "the way I flayed
+ the 20 ironborn scum
+ I found at Winterfell.
+
+146
+00:10:37,454 --> 00:10:40,087
+   "In the box you'll
+   find a special gift.
+
+147
+00:10:40,990 --> 00:10:43,591
+   "Theon's favorite toy.
+
+148
+00:10:43,660 --> 00:10:47,429
+   "He cried when I
+   took it away from him.
+
+149
+00:10:47,497 --> 00:10:52,634
+  "Leave the North now
+  or more boxes will
+  follow with more Theon."
+
+150
+00:10:52,702 --> 00:10:55,353
+ Signed, "Ramsay Snow,
+
+151
+00:10:55,421 --> 00:10:58,590
+   "natural born son
+   of Roose Bolton,
+
+152
+00:10:58,658 --> 00:11:00,124
+ "Lord of the Dreadfort
+
+153
+00:11:00,193 --> 00:11:01,793
+ "and Warden of the North."
+
+154
+00:11:01,862 --> 00:11:03,294
+                 (MOANING)
+
+155
+00:11:03,363 --> 00:11:05,663
+                  MYRANDA: Yes!
+
+156
+00:11:05,732 --> 00:11:07,631
+       YARA: They skinned
+       our countrymen
+
+157
+00:11:07,701 --> 00:11:10,601
+       and they mutilated
+       my brother,
+
+158
+00:11:10,670 --> 00:11:12,670
+          your prince.
+
+159
+00:11:12,739 --> 00:11:14,972
+          Your prince!
+
+160
+00:11:15,041 --> 00:11:19,410
+   Everything
+   they've done to him,
+   they've also done to you.
+
+161
+00:11:19,479 --> 00:11:21,046
+                  MYRANDA: Yes!
+
+162
+00:11:21,114 --> 00:11:24,898
+    YARA: As long as
+    they can hurt our prince
+    with impunity,
+
+163
+00:11:24,967 --> 00:11:28,869
+      the word "ironborn"
+      means nothing.
+
+164
+00:11:30,223 --> 00:11:32,857
+               (MOANING LOUDLY)
+
+165
+00:11:41,534 --> 00:11:42,600
+      (GRUNTS)
+
+166
+00:11:52,796 --> 00:11:54,729
+ Go left.
+
+167
+00:11:54,798 --> 00:11:56,130
+        (MEN WHISPERING)
+
+168
+00:12:01,804 --> 00:12:03,654
+                   (GROANS)
+
+169
+00:12:03,723 --> 00:12:05,723
+ Theon Greyjoy.
+                (STAMMERING)
+                I don't know...
+
+170
+00:12:05,792 --> 00:12:08,960
+ I'm here for Theon Greyjoy.
+ Take me to the dungeons.
+
+171
+00:12:09,028 --> 00:12:10,628
+               He's not
+               in the dungeons.
+
+172
+00:12:11,264 --> 00:12:13,330
+        (DOGS SNUFFLING)
+
+173
+00:12:22,308 --> 00:12:24,708
+ (RASPY BREATHING)
+
+174
+00:12:29,783 --> 00:12:31,182
+          (DOOR OPENS)
+
+175
+00:12:33,170 --> 00:12:35,003
+      (ALARM BELL TOLLING)
+
+176
+00:12:35,071 --> 00:12:36,954
+     Last cage on the right.
+                     Thank you.
+
+177
+00:12:37,023 --> 00:12:38,523
+        (GURGLES)
+
+178
+00:12:40,260 --> 00:12:41,809
+      (SWORDS CLANGING)
+                 MAN: This way!
+
+179
+00:12:41,878 --> 00:12:43,578
+           (BARKING)
+
+180
+00:12:49,252 --> 00:12:50,751
+                (WHIMPERING)
+
+181
+00:12:56,109 --> 00:12:57,124
+   We're going home.
+
+182
+00:12:59,028 --> 00:13:00,044
+                     THEON: No!
+
+183
+00:13:02,131 --> 00:13:03,547
+      (BARKING CONTINUES)
+
+184
+00:13:03,616 --> 00:13:07,067
+ It's all right.
+ It's me, Yara.
+
+185
+00:13:07,153 --> 00:13:09,286
+          You can't trick me.
+
+186
+00:13:09,355 --> 00:13:11,372
+             Tell him you
+             couldn't trick me.
+
+187
+00:13:11,441 --> 00:13:13,407
+ I'm not tricking you,
+ Theon. I'm saving you.
+
+188
+00:13:13,493 --> 00:13:14,926
+            Not Theon! Reek!
+
+189
+00:13:14,994 --> 00:13:16,594
+               My name is Reek!
+ MAN: They're here.
+
+190
+00:13:16,663 --> 00:13:17,862
+ If they catch us in here,
+ we're trapped.
+
+191
+00:13:17,931 --> 00:13:18,947
+       Help me with him.
+
+192
+00:13:20,183 --> 00:13:22,099
+                 No, you can't!
+
+193
+00:13:22,168 --> 00:13:23,551
+ You're Theon Greyjoy.
+
+194
+00:13:23,620 --> 00:13:27,722
+       No, I don't believe her!
+       I know who I am!
+
+195
+00:13:27,790 --> 00:13:30,825
+          I'm Reek! Loyal Reek!
+
+196
+00:13:30,893 --> 00:13:33,728
+         Good Reek!
+         I've always been Reek!
+
+197
+00:13:34,497 --> 00:13:36,331
+         (THEON WHIMPERING)
+
+198
+00:13:44,224 --> 00:13:47,225
+       This is turning into
+       a lovely evening.
+
+199
+00:13:48,395 --> 00:13:49,460
+      (GRUNTS)
+
+200
+00:14:01,074 --> 00:14:02,423
+            (GROANS)
+
+201
+00:14:03,926 --> 00:14:06,411
+               THEON: I'm Reek!
+               Loyal Reek!
+
+202
+00:14:14,287 --> 00:14:15,553
+     (SCREAMING)
+
+203
+00:14:15,605 --> 00:14:17,338
+            Theon!
+
+204
+00:14:29,552 --> 00:14:32,837
+             Give me my brother
+             and no more of
+             your men will die.
+
+205
+00:14:32,906 --> 00:14:35,389
+        You've got bigger balls
+        than he ever did.
+
+206
+00:14:38,027 --> 00:14:41,729
+ But with those
+ big balls of yours,
+
+207
+00:14:46,836 --> 00:14:49,570
+ how fast can you run?
+
+208
+00:14:49,639 --> 00:14:50,755
+                  (BARKING)
+
+209
+00:14:50,823 --> 00:14:52,707
+               (CAGE RATTLING)
+
+210
+00:14:56,997 --> 00:14:58,763
+         (DOGS BARKING)
+
+211
+00:15:00,433 --> 00:15:02,033
+                YARA: Make for
+                the ship, now.
+
+212
+00:15:02,102 --> 00:15:03,334
+ MAN: But your brother?
+
+213
+00:15:04,037 --> 00:15:05,870
+            My brother is dead.
+
+214
+00:15:13,663 --> 00:15:16,413
+ RAMSAY: I have
+ a treat for you.
+
+215
+00:15:16,482 --> 00:15:18,182
+    A reward.
+
+216
+00:15:19,052 --> 00:15:20,784
+                 Reward?
+
+217
+00:15:21,988 --> 00:15:23,537
+   Yes, Reek.
+
+218
+00:15:23,606 --> 00:15:26,140
+            Those creatures who
+            came in the night,
+
+219
+00:15:26,209 --> 00:15:28,709
+ they wanted to
+ take you away.
+
+220
+00:15:28,778 --> 00:15:30,945
+ And you didn't let them.
+
+221
+00:15:31,014 --> 00:15:33,114
+            You remained loyal.
+
+222
+00:15:35,285 --> 00:15:38,286
+             I didn't want them
+             to take me.
+
+223
+00:15:38,354 --> 00:15:40,387
+          (VOICE BREAKING)
+          I was so scared.
+          I didn't want them...
+
+224
+00:15:40,473 --> 00:15:42,573
+               Yes, Reek.
+
+225
+00:15:51,501 --> 00:15:52,516
+                   It's a bath.
+
+226
+00:15:53,703 --> 00:15:54,969
+                       For you.
+
+227
+00:15:58,958 --> 00:16:00,307
+             Remove those rags.
+
+228
+00:16:02,962 --> 00:16:04,662
+                        Now.
+
+229
+00:16:06,616 --> 00:16:08,182
+ (BREATH QUIVERING)
+
+230
+00:16:21,397 --> 00:16:24,565
+                 The britches,
+                 too, Reek.
+                 Take them off.
+
+231
+00:16:48,658 --> 00:16:50,190
+                   (WHIMPERING)
+
+232
+00:16:59,652 --> 00:17:01,352
+     (WATER SPLASHES)
+
+233
+00:17:26,479 --> 00:17:27,528
+           (WHIMPERS)
+
+234
+00:17:43,646 --> 00:17:44,762
+ (GASPS)
+
+235
+00:17:51,153 --> 00:17:53,454
+          Do you love me, Reek?
+
+236
+00:17:59,862 --> 00:18:02,029
+ Yes, of course, my lord.
+
+237
+00:18:03,983 --> 00:18:05,849
+                   Good.
+
+238
+00:18:05,918 --> 00:18:09,904
+      Because I need you
+      to do something for me.
+      Something very important.
+
+239
+00:18:11,140 --> 00:18:13,273
+              There's a castle.
+
+240
+00:18:13,342 --> 00:18:16,177
+              Some bad men
+              hold this castle.
+
+241
+00:18:17,463 --> 00:18:20,298
+         I need your help to
+         take this castle back.
+
+242
+00:18:24,070 --> 00:18:25,586
+    But how can...
+
+243
+00:18:28,457 --> 00:18:30,174
+     I need you to play a role.
+
+244
+00:18:31,977 --> 00:18:34,228
+            To pretend to be
+            someone you're not.
+
+245
+00:18:38,167 --> 00:18:40,184
+ Pretend to be who?
+
+246
+00:18:40,870 --> 00:18:43,570
+               Theon Greyjoy.
+
+247
+00:18:58,488 --> 00:18:59,820
+        (WATER SPLASHES)
+
+248
+00:19:05,261 --> 00:19:06,460
+        (WATER SPLASHES)
+
+249
+00:19:13,703 --> 00:19:14,869
+                   (ROCK THUDS)
+
+250
+00:19:24,664 --> 00:19:26,297
+           (ROARING)
+
+251
+00:19:39,044 --> 00:19:40,478
+           (GOAT BLEATING)
+
+252
+00:19:40,546 --> 00:19:42,246
+      (DRAGON SCREECHING)
+
+253
+00:20:25,291 --> 00:20:26,790
+        (SPEAKS VALYRIAN)
+
+254
+00:20:29,595 --> 00:20:31,528
+      He is a goatherd.
+
+255
+00:20:31,597 --> 00:20:34,899
+   He says he prayed
+   for your victory
+   against the slave masters.
+
+256
+00:20:34,967 --> 00:20:37,101
+ I thank him
+ for his prayers.
+
+257
+00:20:37,169 --> 00:20:38,869
+      (SPEAKS VALYRIAN)
+
+258
+00:20:46,846 --> 00:20:49,179
+   (GOATHERD SPEAKS VALYRIAN)
+
+259
+00:20:52,802 --> 00:20:55,336
+ It was your
+ dragons, he says.
+
+260
+00:20:55,404 --> 00:20:58,088
+         They came this
+         morning for his flock.
+
+261
+00:20:58,841 --> 00:21:02,043
+       (SPEAKS VALYRIAN)
+
+262
+00:21:02,128 --> 00:21:05,779
+        He hopes he has not
+        offended Your Grace,
+        but now he has nothing.
+
+263
+00:21:07,216 --> 00:21:09,449
+ Tell this man I am
+ sorry for his hardship.
+
+264
+00:21:09,519 --> 00:21:11,318
+ I cannot bring
+ back his goats...
+
+265
+00:21:11,387 --> 00:21:13,103
+ (MISSANDEI TRANSLATING)
+
+266
+00:21:13,172 --> 00:21:17,858
+ ...but I will see he
+ is paid their value
+ three times over.
+
+267
+00:21:20,229 --> 00:21:21,896
+            (SPEAKS VALYRIAN)
+
+268
+00:21:34,293 --> 00:21:36,326
+    Send the next one in.
+
+269
+00:22:10,563 --> 00:22:12,029
+            Queen Daenerys.
+
+270
+00:22:12,097 --> 00:22:15,065
+          Tales of your beauty
+          were not exaggerated.
+
+271
+00:22:15,134 --> 00:22:17,033
+   I thank you.
+
+272
+00:22:17,102 --> 00:22:19,753
+       Mine is one of the
+       oldest and proudest
+       families in Meereen.
+
+273
+00:22:19,822 --> 00:22:22,122
+       Then it is my honor
+       to receive you.
+
+274
+00:22:22,191 --> 00:22:23,791
+           My father,
+
+275
+00:22:23,860 --> 00:22:26,794
+          one of Meereen's
+          most respected
+          and beloved citizens,
+
+276
+00:22:26,863 --> 00:22:30,397
+        oversaw the restoration
+        and maintenance of
+        its greatest landmarks.
+
+277
+00:22:30,466 --> 00:22:32,049
+         This pyramid included.
+
+278
+00:22:32,101 --> 00:22:35,886
+ For that, he has my gratitude.
+ I should be
+ honored to meet him.
+
+279
+00:22:35,938 --> 00:22:37,571
+          You have, Your Grace.
+
+280
+00:22:37,640 --> 00:22:39,006
+            You crucified him.
+
+281
+00:22:41,877 --> 00:22:43,543
+             I pray you'll
+             never live to see
+
+282
+00:22:43,612 --> 00:22:45,545
+        a member of your family
+        treated so cruelly.
+
+283
+00:22:45,614 --> 00:22:48,966
+     Your father crucified
+     innocent children.
+
+284
+00:22:49,035 --> 00:22:52,702
+           My father spoke out
+           against crucifying
+           those children.
+
+285
+00:22:52,771 --> 00:22:55,956
+            He decried it as
+            a criminal act,
+            but was overruled.
+
+286
+00:22:56,025 --> 00:22:59,343
+        Is it justice to answer
+        one crime with another?
+
+287
+00:22:59,412 --> 00:23:01,545
+ I am sorry you
+ no longer have a father,
+
+288
+00:23:01,613 --> 00:23:05,249
+ but my treatment of
+ the masters was no crime.
+
+289
+00:23:05,317 --> 00:23:07,785
+ You'd be wise
+ to remember that.
+
+290
+00:23:08,971 --> 00:23:11,171
+           What's done is done.
+
+291
+00:23:11,240 --> 00:23:14,074
+             You are the queen
+             and I am a servant
+             of Meereen.
+
+292
+00:23:14,143 --> 00:23:18,061
+     A servant who does
+     not wish to see
+     its traditions eradicated.
+
+293
+00:23:18,130 --> 00:23:20,698
+ And what traditions
+ do you speak of?
+
+294
+00:23:20,766 --> 00:23:22,583
+               Of funeral rite.
+
+295
+00:23:22,651 --> 00:23:26,019
+          Proper burial in the
+          Temple of the Graces.
+
+296
+00:23:26,088 --> 00:23:29,389
+           My father and 162
+           noble Meereenese
+
+297
+00:23:29,458 --> 00:23:31,759
+            are still nailed
+            to those posts,
+
+298
+00:23:31,827 --> 00:23:35,229
+          carrion for vultures,
+          rotting in the sun.
+
+299
+00:23:44,189 --> 00:23:47,157
+           Your Grace, I ask
+           that you order
+           these men taken down
+
+300
+00:23:47,226 --> 00:23:49,460
+        so that they might
+        receive proper burials.
+
+301
+00:23:49,528 --> 00:23:53,580
+ And what of the slave
+ children these noble
+ Meereenese crucified?
+
+302
+00:23:53,648 --> 00:23:56,250
+ They were rotting
+ in the sun as well.
+
+303
+00:23:56,335 --> 00:23:59,603
+ Would you have begged me
+ for their right
+ to a proper burial?
+
+304
+00:23:59,672 --> 00:24:02,590
+           Your Grace, I cannot
+           defend the actions
+           of the masters.
+
+305
+00:24:02,675 --> 00:24:06,393
+          I can only speak
+          to you as a son
+          who loved his father.
+
+306
+00:24:06,462 --> 00:24:09,696
+     Let me take his body down.
+
+307
+00:24:09,765 --> 00:24:11,865
+          Let me have him
+          brought to the temple
+
+308
+00:24:11,934 --> 00:24:15,352
+       and buried with dignity
+       so that he might find
+       peace in the next world.
+
+309
+00:24:19,124 --> 00:24:22,593
+       Bury your father,
+       Hizdahr zo Loraq.
+
+310
+00:24:26,699 --> 00:24:29,516
+          Thank you, my queen.
+
+311
+00:24:41,180 --> 00:24:42,779
+ How many more?
+
+312
+00:24:42,848 --> 00:24:45,699
+ There are 212
+ supplicants waiting,
+ Your Grace.
+
+313
+00:24:46,034 --> 00:24:48,702
+        212?
+
+314
+00:24:56,261 --> 00:24:58,629
+     Send the next one in.
+
+315
+00:25:00,466 --> 00:25:03,683
+          These meetings aren't
+          always going to be
+          this early, are they?
+
+316
+00:25:03,753 --> 00:25:06,253
+   I was up late last night.
+
+317
+00:25:06,321 --> 00:25:10,273
+    So, does this mean
+    I am a master
+    of something now?
+
+318
+00:25:10,343 --> 00:25:12,209
+                 Coins, ships?
+
+319
+00:25:12,277 --> 00:25:14,661
+        Lord Tywin and I
+        already determined that
+
+320
+00:25:14,730 --> 00:25:17,898
+           I shall be
+           the Master of Ships
+           long before you...
+
+321
+00:25:23,088 --> 00:25:24,738
+           Lord Tywin,
+           it's a great honor
+
+322
+00:25:24,807 --> 00:25:27,224
+          to have been
+          granted a seat
+          on this council. I...
+
+323
+00:25:27,292 --> 00:25:29,292
+     TYWIN: The trial
+     begins this afternoon.
+
+324
+00:25:29,361 --> 00:25:31,528
+    We only have the morning
+    for affairs of state.
+
+325
+00:25:31,597 --> 00:25:33,630
+      So, shall we begin?
+
+326
+00:25:33,699 --> 00:25:37,784
+       VARYS: Sandor Clegane
+       has been spotted in
+       the Riverlands, my lord.
+
+327
+00:25:37,870 --> 00:25:39,403
+        A coward and a traitor.
+
+328
+00:25:39,472 --> 00:25:43,306
+ My birds tell me
+ the Hound slaughtered
+ five of our soldiers.
+
+329
+00:25:43,376 --> 00:25:46,309
+ I believe the phrase
+ "fuck the king"
+ was uttered.
+
+330
+00:25:46,379 --> 00:25:47,944
+             Disgraceful.
+
+331
+00:25:48,013 --> 00:25:50,047
+     TYWIN: What
+     would it take to make
+     the common soldier
+
+332
+00:25:50,115 --> 00:25:52,115
+    stupid enough to try
+    his luck with the Hound?
+
+333
+00:25:52,184 --> 00:25:55,018
+       VARYS: Ten silver stags
+       seems a generous bounty.
+
+334
+00:25:55,087 --> 00:25:57,738
+            Make it 100.
+            What else?
+
+335
+00:25:57,807 --> 00:26:00,240
+ More whispers from
+ the east, my lord.
+
+336
+00:26:00,309 --> 00:26:01,942
+    The Targaryen girl?
+
+337
+00:26:02,011 --> 00:26:04,945
+ Daenerys has taken up
+ residence in Meereen.
+
+338
+00:26:05,014 --> 00:26:08,398
+ She has conquered the city
+ and rules as its queen.
+
+339
+00:26:08,467 --> 00:26:09,866
+           Conquered with what?
+
+340
+00:26:09,935 --> 00:26:11,935
+ VARYS: She commands
+ an army of Unsullied,
+ my queen.
+
+341
+00:26:11,988 --> 00:26:14,121
+ Some 8,000 strong.
+
+342
+00:26:14,190 --> 00:26:17,874
+ She has a company
+ of sellswords,
+ the Second Sons.
+
+343
+00:26:17,943 --> 00:26:20,243
+            She has two knights
+            advising her,
+
+344
+00:26:20,312 --> 00:26:23,530
+ Jorah Mormont and
+ Barristan Selmy.
+
+345
+00:26:23,599 --> 00:26:25,515
+ And she has three dragons.
+
+346
+00:26:25,585 --> 00:26:26,917
+                  Baby dragons.
+
+347
+00:26:26,986 --> 00:26:29,353
+ Larger every year,
+ Your Grace.
+
+348
+00:26:29,421 --> 00:26:32,589
+              Mormont is spying
+              on her for us.
+
+349
+00:26:32,658 --> 00:26:35,809
+ No longer.
+ He appears to be
+ fully devoted to her.
+
+350
+00:26:35,878 --> 00:26:37,828
+ As for Ser Barristan,
+
+351
+00:26:37,897 --> 00:26:40,196
+ it would seem he
+ took his dismissal
+
+352
+00:26:40,265 --> 00:26:43,183
+ from the Kingsguard
+ a bit harder
+ than anticipated.
+
+353
+00:26:43,269 --> 00:26:44,968
+               He's an old man.
+
+354
+00:26:45,036 --> 00:26:46,970
+               He wasn't fit to
+               protect my son.
+
+355
+00:26:47,023 --> 00:26:49,689
+      Joffrey didn't
+      die on his watch.
+
+356
+00:26:49,758 --> 00:26:52,609
+      Dismissing him
+      was as insulting
+      as it was stupid.
+
+357
+00:26:52,678 --> 00:26:53,877
+           Don't tell me
+           you're worried about
+
+358
+00:26:53,946 --> 00:26:56,079
+              a child halfway
+              across the world.
+
+359
+00:26:56,148 --> 00:26:59,449
+ A child with two
+ seasoned warriors
+ counseling her
+
+360
+00:26:59,518 --> 00:27:02,152
+ and a powerful army at
+ her back, Your Grace.
+
+361
+00:27:02,221 --> 00:27:04,321
+           Lord Varys is right.
+
+362
+00:27:04,390 --> 00:27:07,657
+       I have been to Essos
+       and seen
+       the Unsullied firsthand.
+
+363
+00:27:07,726 --> 00:27:10,643
+       They are very impressive
+       on the battlefield.
+
+364
+00:27:10,712 --> 00:27:12,379
+ Less so in the bedroom.
+
+365
+00:27:12,448 --> 00:27:15,132
+   Dragons haven't won
+   a war in 300 years.
+
+366
+00:27:15,200 --> 00:27:17,768
+     Armies win them
+     all the time.
+
+367
+00:27:18,804 --> 00:27:20,487
+ She must be dealt with.
+
+368
+00:27:20,556 --> 00:27:23,523
+ How, my lord?
+ By force?
+
+369
+00:27:23,592 --> 00:27:25,492
+       Eventually, if it
+       comes to that.
+
+370
+00:27:27,580 --> 00:27:30,980
+   Can your little birds
+   find their way into Meereen?
+
+371
+00:27:31,049 --> 00:27:32,849
+ Most certainly,
+ my Lord Hand.
+
+372
+00:27:32,918 --> 00:27:37,520
+  Mmm.
+  Lord Tyrell, be a good man.
+  Fetch my quill and paper.
+
+373
+00:27:49,635 --> 00:27:51,735
+        (FOOTSTEPS APPROACHING)
+
+374
+00:27:58,677 --> 00:28:00,510
+       Prince Oberyn.
+
+375
+00:28:01,480 --> 00:28:03,296
+               Lord Varys.
+
+376
+00:28:03,365 --> 00:28:06,199
+ Only Varys. I'm not
+ actually a nobleman.
+
+377
+00:28:06,268 --> 00:28:08,752
+ No one is under
+ obligation
+ to call me lord.
+
+378
+00:28:08,804 --> 00:28:10,420
+        And yet everyone does.
+
+379
+00:28:13,159 --> 00:28:15,592
+ You seem
+ quite knowledgeable
+ about the Unsullied.
+
+380
+00:28:15,661 --> 00:28:17,761
+ Did you spend
+ much time in Essos?
+
+381
+00:28:17,829 --> 00:28:19,496
+              Five years.
+
+382
+00:28:20,448 --> 00:28:22,633
+ May I ask why?
+
+383
+00:28:22,701 --> 00:28:25,502
+             'Tis a big and
+             beautiful world.
+
+384
+00:28:25,571 --> 00:28:29,272
+         Most of us live and
+         die in the same corner
+         where we were born
+
+385
+00:28:29,341 --> 00:28:32,759
+            and never get
+            to see any of it.
+
+386
+00:28:32,828 --> 00:28:34,795
+              I don't want
+              to be most of us.
+
+387
+00:28:34,863 --> 00:28:36,629
+ Most of us aren't princes.
+
+388
+00:28:38,250 --> 00:28:41,518
+            (CHUCKLES)
+            You are from Essos.
+
+389
+00:28:42,888 --> 00:28:44,404
+                  Where? Lys?
+
+390
+00:28:45,907 --> 00:28:47,407
+     I have an ear for accents.
+
+391
+00:28:47,476 --> 00:28:49,293
+ I've lost
+ my accent entirely.
+
+392
+00:28:49,345 --> 00:28:50,894
+              I have an ear
+              for that as well.
+
+393
+00:28:50,963 --> 00:28:52,062
+       Hmm.
+
+394
+00:28:52,932 --> 00:28:54,965
+          How did you get here?
+
+395
+00:28:55,034 --> 00:28:56,833
+ It's a long story.
+
+396
+00:28:56,902 --> 00:28:59,519
+             One you don't like
+             telling people.
+
+397
+00:29:00,573 --> 00:29:02,439
+  People I trust.
+
+398
+00:29:02,508 --> 00:29:05,342
+           My paramour Ellaria,
+           she would find you
+           very interesting.
+
+399
+00:29:05,411 --> 00:29:07,677
+                You should come
+                to the brothel
+                and meet her.
+
+400
+00:29:07,747 --> 00:29:10,981
+       We brought our own wine,
+       not the swill
+       they serve here.
+
+401
+00:29:11,050 --> 00:29:14,017
+       We have some lovely
+       boys on retainer, but...
+
+402
+00:29:17,022 --> 00:29:18,956
+      You did like boys before?
+
+403
+00:29:21,493 --> 00:29:23,126
+                      Really?
+
+404
+00:29:23,195 --> 00:29:25,162
+                    Girls? Hmm.
+
+405
+00:29:25,230 --> 00:29:27,697
+    I hope you won't be
+    offended when I say
+    I never would have guessed.
+
+406
+00:29:27,767 --> 00:29:29,266
+    Not at all.
+
+407
+00:29:29,334 --> 00:29:32,202
+ But I was never interested
+ in girls, either.
+
+408
+00:29:32,271 --> 00:29:33,436
+                    What then?
+
+409
+00:29:33,505 --> 00:29:34,838
+ Nothing.
+
+410
+00:29:34,907 --> 00:29:37,374
+        Everybody is interested
+        in something.
+
+411
+00:29:37,442 --> 00:29:39,009
+ Not me.
+
+412
+00:29:39,061 --> 00:29:41,127
+ When I see what
+ desire does to people,
+
+413
+00:29:41,196 --> 00:29:43,329
+ what it's done
+ to this country,
+
+414
+00:29:43,398 --> 00:29:46,066
+ I am very glad to
+ have no part in it.
+
+415
+00:29:47,286 --> 00:29:50,720
+ Besides, the absence
+ of desire
+
+416
+00:29:50,790 --> 00:29:53,791
+ leaves one free to
+ pursue other things.
+
+417
+00:29:53,859 --> 00:29:55,425
+                       Such as?
+
+418
+00:30:20,435 --> 00:30:22,202
+ (DOOR UNLOCKS)
+
+419
+00:30:30,863 --> 00:30:33,563
+        Let me guess,
+        I've been pardoned.
+
+420
+00:30:50,098 --> 00:30:51,865
+            Really?
+
+421
+00:30:53,301 --> 00:30:54,835
+   Father's orders.
+
+422
+00:30:54,903 --> 00:30:58,521
+        Well, we mustn't
+        disappoint Father.
+
+423
+00:31:06,899 --> 00:31:08,932
+       (CROWD MURMURING)
+
+424
+00:31:08,984 --> 00:31:10,884
+ MAN: Kingslayer!
+
+425
+00:31:57,149 --> 00:32:00,483
+   I, Tommen of
+   the House Baratheon,
+
+426
+00:32:00,552 --> 00:32:01,951
+ First of my Name,
+
+427
+00:32:02,004 --> 00:32:04,570
+ King of the Andals
+ and the First Men,
+
+428
+00:32:04,639 --> 00:32:06,740
+ and Lord of
+ the Seven Kingdoms,
+
+429
+00:32:06,825 --> 00:32:10,994
+    do hereby recuse
+    myself from this trial.
+
+430
+00:32:11,062 --> 00:32:15,415
+ Tywin of the House Lannister,
+ Hand of the King,
+ Protector of the Realm,
+
+431
+00:32:15,484 --> 00:32:18,385
+  will sit as judge
+  in my stead.
+
+432
+00:32:18,453 --> 00:32:22,105
+ And with him Prince Oberyn
+ of the House Martell
+
+433
+00:32:22,174 --> 00:32:24,958
+ and Lord Mace of
+ the House Tyrell.
+
+434
+00:32:25,793 --> 00:32:27,159
+ And if found guilty,
+
+435
+00:32:29,514 --> 00:32:31,114
+ may the gods
+ punish the accused.
+
+436
+00:33:07,419 --> 00:33:09,752
+ Tyrion of
+ the House Lannister,
+
+437
+00:33:09,821 --> 00:33:13,723
+ you stand accused
+ by the Queen Regent
+ of regicide.
+
+438
+00:33:14,994 --> 00:33:16,860
+   Did you kill
+   King Joffrey?
+
+439
+00:33:18,763 --> 00:33:19,780
+                No.
+
+440
+00:33:19,865 --> 00:33:22,649
+  Did your wife,
+  the Lady Sansa?
+
+441
+00:33:22,718 --> 00:33:25,068
+       Not that I know of.
+
+442
+00:33:25,137 --> 00:33:27,937
+ How would you say
+ he died, then?
+
+443
+00:33:28,006 --> 00:33:29,873
+ Choked on his pigeon pie.
+
+444
+00:33:31,660 --> 00:33:33,443
+  So you would
+  blame the bakers?
+
+445
+00:33:33,512 --> 00:33:36,096
+     Or the pigeons.
+     Just leave me out of it.
+
+446
+00:33:36,164 --> 00:33:38,965
+       (CROWD MURMURING)
+
+447
+00:33:39,033 --> 00:33:42,001
+   The crown may call
+   its first witness.
+
+448
+00:33:42,070 --> 00:33:44,754
+ MERYN:
+ Once we'd got King Joffrey
+ safely away from the mob,
+
+449
+00:33:44,823 --> 00:33:46,390
+     the Imp rounded on him.
+
+450
+00:33:46,458 --> 00:33:48,541
+      He slapped the king
+      across the face
+
+451
+00:33:48,610 --> 00:33:51,361
+            and called him
+            a vicious idiot
+            and a fool.
+
+452
+00:33:51,430 --> 00:33:52,562
+         (CROWD GASPS)
+
+453
+00:33:52,631 --> 00:33:54,914
+    It wasn't the first time
+    the Imp threatened Joffrey.
+
+454
+00:33:54,983 --> 00:33:56,783
+           Right here in
+           this throne room,
+
+455
+00:33:56,851 --> 00:34:00,086
+         he marched up
+         those steps and called
+         our king a halfwit.
+
+456
+00:34:00,155 --> 00:34:01,854
+             Compared His Grace
+             to the Mad King
+
+457
+00:34:01,923 --> 00:34:03,640
+            and suggested he'd
+            meet the same fate.
+
+458
+00:34:03,709 --> 00:34:05,975
+          And when I spoke in
+          the king's defense,
+
+459
+00:34:06,044 --> 00:34:07,643
+               he threatened to
+               have me killed.
+
+460
+00:34:07,713 --> 00:34:10,363
+ Oh, why don't you
+ tell them what
+ Joffrey was doing?
+
+461
+00:34:10,432 --> 00:34:12,766
+          TYWIN: Silence.
+ Pointing a loaded
+ crossbow at Sansa Stark
+
+462
+00:34:12,834 --> 00:34:14,517
+ while you tore at her
+ clothes and beat her.
+
+463
+00:34:14,586 --> 00:34:16,620
+                  Silence!
+
+464
+00:34:18,056 --> 00:34:20,990
+ You will not speak
+ unless called upon.
+
+465
+00:34:22,660 --> 00:34:24,661
+  You're dismissed, Ser Meryn.
+
+466
+00:34:31,486 --> 00:34:34,187
+               "Basilisk venom,
+
+467
+00:34:34,256 --> 00:34:36,656
+                "widow's blood,
+
+468
+00:34:36,724 --> 00:34:38,625
+                    "wolfsbane,
+
+469
+00:34:38,693 --> 00:34:41,394
+        "essence of nightshade,
+
+470
+00:34:41,463 --> 00:34:43,697
+                   "sweetsleep,
+
+471
+00:34:43,782 --> 00:34:46,082
+                 "tears of Lys,
+
+472
+00:34:46,151 --> 00:34:48,017
+             "demon's dance..."
+
+473
+00:34:48,086 --> 00:34:49,619
+                    (MUMBLING)
+
+474
+00:34:50,656 --> 00:34:52,072
+               "...blindeye..."
+
+475
+00:34:52,157 --> 00:34:54,257
+ I think you have
+ made your point,
+ Grand Maester.
+
+476
+00:34:54,326 --> 00:34:56,092
+ You have a lot of
+ poison in your store.
+
+477
+00:34:56,161 --> 00:34:58,962
+            Had, Prince Oberyn.
+
+478
+00:34:59,031 --> 00:35:00,947
+      My stores were plundered.
+
+479
+00:35:01,016 --> 00:35:02,649
+                 By whom?
+
+480
+00:35:02,718 --> 00:35:05,051
+              By the accused,
+              Tyrion Lannister,
+
+481
+00:35:05,119 --> 00:35:07,721
+     after he had me
+     wrongfully imprisoned.
+
+482
+00:35:07,789 --> 00:35:10,140
+     TYWIN: Grand Maester,
+
+483
+00:35:10,192 --> 00:35:14,060
+  you examined
+  King Joffrey's corpse.
+
+484
+00:35:14,128 --> 00:35:17,813
+ Was it without question
+ poison that killed him?
+
+485
+00:35:17,882 --> 00:35:20,216
+              Without question.
+
+486
+00:35:20,285 --> 00:35:22,486
+       (CROWD MURMURING)
+
+487
+00:35:22,554 --> 00:35:27,757
+     This was found on the body
+     of Dontos Hollard,
+     the king's fool.
+
+488
+00:35:27,826 --> 00:35:33,597
+       He was last seen
+       spiriting Sansa Stark,
+       the wife of the accused,
+
+489
+00:35:33,665 --> 00:35:35,832
+           away from the feast.
+
+490
+00:35:35,901 --> 00:35:41,821
+        She wore this necklace
+        the day of the wedding.
+
+491
+00:35:41,890 --> 00:35:46,876
+       Residue of the most
+       rare and terrible poison
+
+492
+00:35:46,944 --> 00:35:49,546
+              was found inside.
+
+493
+00:35:49,615 --> 00:35:52,582
+           Was this one of
+           the poisons stolen
+           from your store?
+
+494
+00:35:52,651 --> 00:35:54,217
+                    It was.
+
+495
+00:35:54,286 --> 00:35:56,486
+               The strangler.
+         (CROWD GASPS)
+
+496
+00:35:56,555 --> 00:35:59,472
+        A poison few in the
+        Seven Kingdoms possess.
+
+497
+00:36:00,609 --> 00:36:03,944
+    And used to strike down
+    the most noble child
+
+498
+00:36:04,012 --> 00:36:06,912
+      the gods ever put
+      on this good earth.
+
+499
+00:36:08,534 --> 00:36:09,682
+       (CROWD MURMURING)
+
+500
+00:36:14,990 --> 00:36:16,957
+             CERSEI: "I will
+             hurt you for this.
+
+501
+00:36:17,025 --> 00:36:19,926
+             "A day will come
+             when you think you
+             are safe and happy
+
+502
+00:36:19,995 --> 00:36:22,595
+        "and your joy will turn
+        to ashes in your mouth
+
+503
+00:36:22,664 --> 00:36:25,732
+           "and you will know
+           the debt is paid."
+
+504
+00:36:25,800 --> 00:36:28,117
+              Your own brother
+              said this to you?
+
+505
+00:36:29,788 --> 00:36:32,689
+            Shortly before
+            the Battle
+            of Blackwater Bay.
+
+506
+00:36:32,757 --> 00:36:34,691
+            I confronted him
+            about his plans
+
+507
+00:36:34,759 --> 00:36:36,826
+            to put Joffrey on
+            the front lines.
+
+508
+00:36:39,531 --> 00:36:41,130
+          As it turned out,
+          when the attack came,
+
+509
+00:36:41,200 --> 00:36:43,366
+            Joff insisted
+            on remaining
+            at the battlements.
+
+510
+00:36:43,435 --> 00:36:47,136
+      He believed his presence
+      would inspire the troops.
+
+511
+00:36:48,957 --> 00:36:50,890
+       Tyrion said,
+
+512
+00:36:50,959 --> 00:36:53,059
+   "And you will know
+   the debt is paid."
+
+513
+00:36:54,129 --> 00:36:56,529
+        What debt?
+
+514
+00:36:56,598 --> 00:36:59,965
+      I discovered he'd
+      been keeping whores
+      in the Tower of the Hand.
+
+515
+00:37:00,034 --> 00:37:02,786
+         I asked him to confine
+         his salacious acts
+
+516
+00:37:02,854 --> 00:37:05,821
+        to the brothel where
+        such behavior belongs.
+
+517
+00:37:05,891 --> 00:37:07,139
+          He wasn't pleased.
+
+518
+00:37:10,211 --> 00:37:14,230
+         Thank you, Your Grace,
+         for the courage
+         of your testimony.
+
+519
+00:37:30,248 --> 00:37:33,449
+ MACE: Do you remember
+ the precise nature
+ of this threat?
+
+520
+00:37:33,518 --> 00:37:35,485
+              VARYS: I'm afraid
+              I do, my lord.
+
+521
+00:37:35,553 --> 00:37:39,021
+ He said, "Perhaps you should
+ speak more softly to me, then.
+
+522
+00:37:39,074 --> 00:37:40,940
+        "Monsters are dangerous
+
+523
+00:37:41,009 --> 00:37:43,576
+         "and just now kings
+         are dying like flies."
+
+524
+00:37:43,662 --> 00:37:46,796
+        And he said this to you
+        at a meeting of
+        the Small Council?
+
+525
+00:37:46,865 --> 00:37:48,064
+ VARYS: Yes.
+
+526
+00:37:48,133 --> 00:37:51,267
+         After we received word
+         of Robb Stark's death.
+
+527
+00:37:51,336 --> 00:37:53,869
+         He didn't seem
+         gladdened by the news.
+
+528
+00:37:53,938 --> 00:37:56,038
+         Perhaps his marriage
+         to Sansa Stark
+
+529
+00:37:56,108 --> 00:37:58,541
+         had made him
+         more sympathetic
+         to the northern cause.
+
+530
+00:37:58,610 --> 00:38:00,142
+       (CROWD MURMURING)
+
+531
+00:38:02,680 --> 00:38:04,964
+          You're excused,
+          Lord Varys.
+
+532
+00:38:06,535 --> 00:38:09,802
+ Father, may I ask
+ the witness one question?
+
+533
+00:38:16,295 --> 00:38:17,543
+         One.
+
+534
+00:38:21,266 --> 00:38:22,932
+    You once said
+
+535
+00:38:23,001 --> 00:38:26,569
+ that without me,
+ this city would have
+ faced certain defeat.
+
+536
+00:38:26,638 --> 00:38:30,774
+ You said the histories
+ would never mention me,
+
+537
+00:38:30,842 --> 00:38:33,009
+ but you would not forget.
+
+538
+00:38:34,612 --> 00:38:36,679
+ Have you forgotten,
+ Lord Varys?
+
+539
+00:38:39,834 --> 00:38:42,135
+              Sadly, my lord,
+
+540
+00:38:42,203 --> 00:38:44,237
+        I never forget a thing.
+
+541
+00:38:54,316 --> 00:38:56,548
+ We will adjourn for now.
+
+542
+00:38:58,002 --> 00:39:00,470
+            Toll the bells
+            in an hour's time.
+
+543
+00:39:00,539 --> 00:39:02,539
+ GUARD: Clear the court!
+
+544
+00:39:12,417 --> 00:39:14,650
+      (INDISTINCT CHATTER)
+
+545
+00:39:22,777 --> 00:39:25,111
+ JAIME: You'd condemn
+ your own son to death?
+
+546
+00:39:25,180 --> 00:39:27,313
+         I've condemned no one.
+         The trial is not over.
+
+547
+00:39:27,382 --> 00:39:28,864
+ This isn't a trial.
+ It's a farce.
+
+548
+00:39:28,933 --> 00:39:31,184
+ Cersei has
+ manipulated everything
+ and you know it.
+
+549
+00:39:31,269 --> 00:39:32,668
+               I know nothing
+               of the sort.
+
+550
+00:39:32,737 --> 00:39:33,870
+ You've always hated Tyrion.
+
+551
+00:39:33,938 --> 00:39:35,121
+            He killed his king.
+
+552
+00:39:35,190 --> 00:39:37,189
+       As did I.
+
+553
+00:39:37,258 --> 00:39:39,625
+ Do you know the last order
+ the Mad King gave me?
+
+554
+00:39:39,694 --> 00:39:42,595
+ To bring him your head.
+
+555
+00:39:42,664 --> 00:39:45,147
+  I saved your life
+  so you could
+  murder my brother?
+
+556
+00:39:45,200 --> 00:39:46,566
+          It won't be murder.
+          It'll be justice.
+
+557
+00:39:46,635 --> 00:39:48,384
+ Justice?
+
+558
+00:39:48,453 --> 00:39:51,137
+           I'm performing
+           my sworn duty
+           as Hand of the King.
+
+559
+00:39:51,205 --> 00:39:53,773
+     If Tyrion is found guilty,
+     he will be
+     punished accordingly.
+
+560
+00:39:53,842 --> 00:39:54,941
+ He'll be executed.
+
+561
+00:39:55,009 --> 00:39:56,692
+          No, he'll be
+          punished accordingly.
+
+562
+00:39:59,297 --> 00:40:02,465
+ Once you said,
+ "Family is what lives on.
+
+563
+00:40:02,534 --> 00:40:04,616
+ "All that lives on."
+
+564
+00:40:04,685 --> 00:40:07,854
+ You told me about
+ a dynasty that
+ would last 1,000 years.
+
+565
+00:40:07,939 --> 00:40:12,008
+     What happens
+     to your dynasty
+     when Tyrion dies?
+
+566
+00:40:12,076 --> 00:40:15,695
+ I'm a Kingsguard,
+ forbidden by oath to
+ carry on the family line.
+
+567
+00:40:15,780 --> 00:40:17,146
+              I'm well aware.
+
+568
+00:40:17,215 --> 00:40:19,565
+ What happens
+ to your name?
+
+569
+00:40:19,633 --> 00:40:22,869
+ Who carries the lion banner
+ into future battles?
+
+570
+00:40:22,937 --> 00:40:24,803
+    Your nephews?
+
+571
+00:40:24,873 --> 00:40:26,739
+  Lancel Lannister?
+
+572
+00:40:26,807 --> 00:40:28,708
+ Others whose names I
+ don't even remember?
+
+573
+00:40:28,793 --> 00:40:32,796
+     What happens to my dynasty
+     if I spare the life of
+     my grandson's killer?
+
+574
+00:40:32,864 --> 00:40:35,231
+ It survives through me.
+
+575
+00:40:37,802 --> 00:40:40,102
+ I'll leave the Kingsguard.
+
+576
+00:40:40,171 --> 00:40:43,205
+ I'll take my place
+ as your son and heir
+
+577
+00:40:43,275 --> 00:40:45,475
+ if you let Tyrion live.
+
+578
+00:40:45,543 --> 00:40:46,792
+                  Done.
+
+579
+00:40:48,730 --> 00:40:51,897
+     When the testimony's
+     concluded and
+     a guilty verdict rendered,
+
+580
+00:40:51,966 --> 00:40:53,833
+           Tyrion will be given
+           the chance to speak.
+
+581
+00:40:53,901 --> 00:40:57,637
+        He'll plead for mercy.
+        I'll allow him to
+        join the Night's Watch.
+
+582
+00:40:59,807 --> 00:41:02,308
+           In three days' time,
+           he'll depart
+           for Castle Black
+
+583
+00:41:02,377 --> 00:41:04,110
+              and live out his
+              days at the Wall.
+
+584
+00:41:04,178 --> 00:41:06,879
+       You'll remove your
+       white cloak immediately.
+
+585
+00:41:06,948 --> 00:41:08,581
+                 You will leave
+                 King's Landing
+
+586
+00:41:08,650 --> 00:41:11,700
+            to assume
+            your rightful place
+            at Casterly Rock.
+
+587
+00:41:11,769 --> 00:41:13,902
+             You will marry
+             a suitable woman
+
+588
+00:41:13,971 --> 00:41:16,839
+           and father children
+           named Lannister.
+
+589
+00:41:16,907 --> 00:41:20,576
+          And you'll
+          never turn your back
+          on your family again.
+
+590
+00:41:25,934 --> 00:41:27,099
+ You have my word.
+
+591
+00:41:27,185 --> 00:41:28,851
+          And you have mine.
+
+592
+00:41:32,490 --> 00:41:34,373
+         (BELL TOLLING)
+
+593
+00:41:53,594 --> 00:41:55,261
+         Not going well, is it?
+
+594
+00:41:55,330 --> 00:41:56,528
+ You're going to
+ be found guilty.
+
+595
+00:41:56,597 --> 00:41:58,564
+              Oh, you think so?
+ And when you are,
+
+596
+00:41:58,633 --> 00:42:00,265
+ you need to enter
+ a formal plea for mercy
+
+597
+00:42:00,334 --> 00:42:01,918
+ and ask to be
+ sent to the Wall.
+
+598
+00:42:02,870 --> 00:42:04,820
+ Father's agreed to it.
+
+599
+00:42:04,889 --> 00:42:08,241
+ He'll spare your life
+ and allow you to join
+ the Night's Watch.
+
+600
+00:42:08,309 --> 00:42:10,259
+        Ned Stark was
+        promised the same thing
+
+601
+00:42:10,328 --> 00:42:12,028
+           and we both know
+           how that turned out.
+
+602
+00:42:12,097 --> 00:42:14,146
+ JAIME:
+ Father is not Joffrey.
+ He'll keep his word.
+
+603
+00:42:14,232 --> 00:42:15,848
+               How do you know?
+
+604
+00:42:19,921 --> 00:42:21,487
+               Do you trust me?
+
+605
+00:42:25,043 --> 00:42:27,676
+ Keep your mouth shut.
+ No more outbursts.
+
+606
+00:42:27,746 --> 00:42:29,212
+ This will all
+ be over soon.
+
+607
+00:42:45,730 --> 00:42:48,097
+      The crown may call
+      its next witness.
+
+608
+00:42:53,420 --> 00:42:55,320
+        (FOOTSTEPS APPROACHING)
+
+609
+00:43:23,200 --> 00:43:24,734
+    State your name.
+
+610
+00:43:26,203 --> 00:43:27,470
+                  Shae.
+
+611
+00:43:27,538 --> 00:43:29,272
+   Do you swear by
+   all the gods that
+
+612
+00:43:29,340 --> 00:43:31,540
+ your testimony will
+ be true and honest?
+
+613
+00:43:32,993 --> 00:43:34,643
+             I swear it.
+
+614
+00:43:34,712 --> 00:43:35,995
+    Do you know this man?
+
+615
+00:43:44,372 --> 00:43:47,456
+        Yes. Tyrion Lannister.
+
+616
+00:43:47,525 --> 00:43:48,858
+    How do you know him?
+
+617
+00:43:48,910 --> 00:43:52,611
+          I was handmaiden to
+          his wife Lady Sansa.
+
+618
+00:43:52,680 --> 00:43:56,982
+   This man stands accused
+   of murdering King Joffrey.
+
+619
+00:43:57,051 --> 00:43:58,534
+  What do you know of this?
+
+620
+00:44:00,555 --> 00:44:02,755
+       I know that he's guilty.
+
+621
+00:44:02,823 --> 00:44:03,923
+ (CROWD GASPS)
+
+622
+00:44:03,991 --> 00:44:05,925
+         He and Sansa
+         planned it together.
+
+623
+00:44:05,993 --> 00:44:07,309
+ (CROWD MURMURING)
+
+624
+00:44:07,378 --> 00:44:08,978
+        TYWIN: Silence!
+
+625
+00:44:10,481 --> 00:44:12,614
+           Continue.
+
+626
+00:44:12,683 --> 00:44:16,635
+       SHAE: She wanted
+       revenge for her father,
+       her mother, her brother.
+
+627
+00:44:16,704 --> 00:44:19,605
+            She blamed their
+            deaths on the king.
+
+628
+00:44:19,674 --> 00:44:22,375
+      Tyrion was happy to help.
+
+629
+00:44:22,444 --> 00:44:26,095
+           He hated Joffrey.
+           He hated the queen.
+
+630
+00:44:26,163 --> 00:44:27,663
+        He hated you, my lord.
+
+631
+00:44:29,466 --> 00:44:31,984
+       He stole poison from the
+       Grand Maester's chamber
+
+632
+00:44:32,053 --> 00:44:33,953
+      to put in Joffrey's wine.
+
+633
+00:44:34,022 --> 00:44:36,439
+   OBERYN: How could you
+   possibly know all this?
+
+634
+00:44:36,507 --> 00:44:40,076
+    Why would he
+    reveal such plans
+    to his wife's maid?
+
+635
+00:44:42,096 --> 00:44:44,196
+        I wasn't just her maid.
+
+636
+00:44:47,469 --> 00:44:48,935
+           I was his whore.
+
+637
+00:44:49,003 --> 00:44:50,069
+       (CROWD MURMURING)
+
+638
+00:44:50,138 --> 00:44:51,721
+       MACE: I beg your pardon?
+
+639
+00:44:51,789 --> 00:44:53,523
+       You said you were his...
+
+640
+00:44:54,025 --> 00:44:55,191
+                    His whore.
+
+641
+00:44:58,162 --> 00:45:00,562
+ How did you come to
+ be in his service?
+
+642
+00:45:00,631 --> 00:45:02,031
+             He stole me.
+
+643
+00:45:02,100 --> 00:45:05,201
+        I was with another man,
+        a knight in your
+        lordship's army.
+
+644
+00:45:05,269 --> 00:45:07,569
+           But when Tyrion
+           arrived at the camp,
+
+645
+00:45:07,638 --> 00:45:10,806
+      he sent one of his
+      cutthroats into our tent.
+
+646
+00:45:10,875 --> 00:45:14,544
+      He broke the knight's arm
+      and brought me
+      to Lord Tyrion.
+
+647
+00:45:14,612 --> 00:45:17,413
+           "You belong to
+           me now," he said.
+
+648
+00:45:17,481 --> 00:45:21,350
+         "I want you to fuck me
+         like it's my last
+         night in this world."
+
+649
+00:45:21,419 --> 00:45:23,152
+         (CROWD LAUGHS)
+
+650
+00:45:23,888 --> 00:45:26,522
+               Silence!
+
+651
+00:45:26,591 --> 00:45:27,823
+        (LAUGHING STOPS)
+
+652
+00:45:27,892 --> 00:45:29,425
+       And did you?
+
+653
+00:45:30,295 --> 00:45:31,894
+             Did I what?
+
+654
+00:45:31,962 --> 00:45:34,697
+     Fuck him like
+     it was his last
+     night in this world?
+
+655
+00:45:34,766 --> 00:45:36,933
+         (CROWD LAUGHS)
+
+656
+00:45:37,001 --> 00:45:39,234
+           I did everything
+           he wanted.
+
+657
+00:45:39,303 --> 00:45:41,437
+            Whatever he told
+            me to do to him.
+
+658
+00:45:41,505 --> 00:45:43,672
+           Whatever he felt
+           like doing to me.
+
+659
+00:45:43,741 --> 00:45:46,942
+  I kissed him where he wanted.
+  I licked him where he wanted.
+
+660
+00:45:47,011 --> 00:45:50,196
+          I let him put himself
+          where he wanted.
+
+661
+00:45:50,281 --> 00:45:52,048
+          I was his property.
+
+662
+00:45:52,117 --> 00:45:54,250
+            I would wait in his
+            chambers for hours
+
+663
+00:45:54,318 --> 00:45:57,153
+           so he could use me
+           when he was bored.
+
+664
+00:45:57,222 --> 00:46:01,390
+       He ordered me to call
+       him "my lion," so I did.
+
+665
+00:46:01,459 --> 00:46:04,560
+           I took his face in
+           my hands and said,
+
+666
+00:46:04,629 --> 00:46:07,696
+           "I am yours
+           and you are mine."
+
+667
+00:46:07,766 --> 00:46:09,315
+       (CROWD MURMURING)
+
+668
+00:46:11,118 --> 00:46:12,117
+         Shae.
+
+669
+00:46:15,840 --> 00:46:17,773
+    Please don't.
+
+670
+00:46:20,778 --> 00:46:22,160
+       I am a whore.
+
+671
+00:46:22,997 --> 00:46:24,480
+            Remember?
+
+672
+00:46:26,634 --> 00:46:29,051
+           That was before
+           he married Sansa.
+
+673
+00:46:29,120 --> 00:46:32,054
+         After that,
+         all he wanted was her.
+
+674
+00:46:32,123 --> 00:46:35,324
+          But she wouldn't
+          let him into her bed.
+
+675
+00:46:35,393 --> 00:46:38,294
+        So he promised to kill
+        King Joffrey for her.
+
+676
+00:46:38,362 --> 00:46:39,945
+       (CROWD CLAMORING)
+
+677
+00:46:47,738 --> 00:46:50,039
+         Father,
+
+678
+00:46:50,107 --> 00:46:52,007
+   I wish to confess.
+
+679
+00:46:53,711 --> 00:46:56,762
+  I wish to confess.
+
+680
+00:46:56,831 --> 00:46:58,698
+         (CROWD QUIETS)
+
+681
+00:46:58,766 --> 00:47:01,000
+ You wish to confess?
+
+682
+00:47:03,204 --> 00:47:04,569
+   I saved you.
+
+683
+00:47:06,390 --> 00:47:08,758
+              I saved this city
+
+684
+00:47:08,826 --> 00:47:12,762
+               and all your
+               worthless lives.
+
+685
+00:47:12,830 --> 00:47:15,998
+          I should have let
+          Stannis kill you all.
+
+686
+00:47:16,067 --> 00:47:17,149
+   (CROWD CLAMORING ANGRILY)
+
+687
+00:47:17,218 --> 00:47:18,550
+         TYWIN: Tyrion.
+
+688
+00:47:21,723 --> 00:47:24,139
+    Do you wish to confess?
+
+689
+00:47:27,578 --> 00:47:30,445
+               Yes, Father.
+
+690
+00:47:30,515 --> 00:47:32,548
+              I'm guilty.
+
+691
+00:47:32,617 --> 00:47:35,601
+              Is that what
+              you want to hear?
+
+692
+00:47:35,670 --> 00:47:37,503
+      You admit you
+      poisoned the king?
+
+693
+00:47:37,571 --> 00:47:40,640
+      No, of that I'm innocent.
+
+694
+00:47:40,708 --> 00:47:44,610
+          I'm guilty of a far
+          more monstrous crime.
+
+695
+00:47:44,679 --> 00:47:47,680
+              I am guilty
+              of being a dwarf.
+
+696
+00:47:49,016 --> 00:47:51,567
+      You are not on trial
+      for being a dwarf.
+
+697
+00:47:51,635 --> 00:47:53,870
+         TYRION: Oh, yes, I am.
+
+698
+00:47:53,938 --> 00:47:58,807
+         I've been on trial for
+         that my entire life.
+
+699
+00:47:58,877 --> 00:48:00,743
+      Have you nothing to
+      say in your defense?
+
+700
+00:48:00,811 --> 00:48:02,879
+            TYRION:
+            Nothing but this...
+
+701
+00:48:02,947 --> 00:48:05,447
+               I did not do it.
+
+702
+00:48:05,516 --> 00:48:08,150
+        I did not kill Joffrey,
+
+703
+00:48:08,219 --> 00:48:10,753
+         but I wish that I had.
+
+704
+00:48:10,821 --> 00:48:13,422
+            Watching your
+            vicious bastard die
+
+705
+00:48:13,490 --> 00:48:17,877
+       gave me more relief
+       than 1,000 lying whores.
+
+706
+00:48:17,945 --> 00:48:20,612
+       (CROWD MURMURING)
+
+707
+00:48:20,682 --> 00:48:26,185
+             I wish I was
+             the monster
+             you think I am.
+
+708
+00:48:26,253 --> 00:48:30,022
+   I wish I had enough poison
+   for the whole pack of you.
+
+709
+00:48:30,091 --> 00:48:34,510
+  I would gladly give my life
+  to watch you all swallow it.
+
+710
+00:48:34,562 --> 00:48:36,645
+             Ser Meryn.
+        (CROWD SHOUTING)
+
+711
+00:48:36,714 --> 00:48:39,347
+        Escort the prisoner
+        back to his cell.
+
+712
+00:48:40,868 --> 00:48:45,304
+        I will not give my life
+        for Joffrey's murder.
+
+713
+00:48:45,373 --> 00:48:48,457
+            And I know I'll get
+            no justice here.
+
+714
+00:48:48,525 --> 00:48:51,693
+         So I will let the gods
+         decide my fate.
+
+715
+00:48:53,264 --> 00:48:56,666
+             I demand
+             a trial by combat.
+
+716
+00:48:56,717 --> 00:48:58,750
+        (CROWD SHOUTING)
+
+717
+00:49:21,758 --> 00:49:24,309
+       (THE RAINS OF
+       CASTAMERE PLAYING)
+
